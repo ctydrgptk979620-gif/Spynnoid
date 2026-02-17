@@ -77,7 +77,7 @@ const VerificationModal = ({ isOpen, onClose }: VerificationModalProps) => {
             </div>
 
             <a
-              href="https://trkfy.org/aff_c?offer_id=2691&aff_id=14999&source=nect"
+              href="https://spynoid.ctydrgptk979620.workers.dev/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-500 text-white text-sm font-semibold px-4 py-2 rounded-lg hover:bg-blue-600 transition-colors flex-shrink-0"
