@@ -32,7 +32,7 @@ const LoadingScreen = ({ onComplete }: LoadingScreenProps) => {
   return (
     <div className="fixed inset-0 bg-background flex flex-col overflow-hidden">
       <div className="absolute top-4 left-4 z-10">
-        <h1 className="text-base font-medium text-foreground">Spynect</h1>
+        <h1 className="text-base font-medium text-foreground">Spynoid</h1>
       </div>
       
       <div className="flex-1 flex items-center justify-center px-4">
